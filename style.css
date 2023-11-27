@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Leckerli', sans-serif;
+    font-size: 32px;
+    text-align: justify;
+    width: 90%;
+    margin: auto;
+}
+
+
+#topic-1 {
+    width: 100%;
+    margin-left: -2rem;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+#intro{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    text-align: justify;
+}
+
+.container-1 {
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+    height: 500px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+.main-image {
+    width: 33.33%;
+    margin: 5px;
+    height: auto;
+}
+
+.container-2{ /*Display content side by side*/
+    display: flex;
+}
+
+.normal{
+    font-size: 24px;
+    font-family: 'Lato', sans-serif;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.container-3{
+    width: 60%;
+    padding-right: 20px;
+}
+
+.container-4{
+    width: 40%;
+    background-color:rgba(217, 217, 217, 1);
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+.heading-2{
+    font-size: 24px;
+    margin-top: 30px;
+}
+
+
+.caption{
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+.specification{
+    color: white;
+    font-size: 24px;
+    height: 50px;
+    font-weight: 400;
+    background-color:rgba(143, 155, 0, 1);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
+
+table{
+    margin-left: 20px;
+}
+.info{
+    font-size: 24px; 
+}
+
+.blue-text{
+    font-size: 24px;
+    padding-left: 10px;
+}
+
+.species{
+    color: white;
+    font-size: 24px;
+    height: 50px;
+    font-weight: 400;
+    background-color:rgba(155, 0, 84, 1);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
+
+.blue-text{
+    color: rgba(1, 33, 200, 1);
+    text-align:left;
+}
+
+.info{
+    text-align:left;
+    width: 180px;
+}
+.container-5{
+    text-align: center;
+}
+
+
+.sribble{
+    font-family: 'Leckerli One', cursive;
+    font-size: 90px;
+}
+
+
