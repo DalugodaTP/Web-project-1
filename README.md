@@ -18,7 +18,7 @@ This project consists of a basic website built using HTML and CSS. The main purp
 
 ## Technologies Used
 - HTML5
-- CSS3
+- CSS (Cascading Style Sheets)
 
 ## How to Use
 1. Clone the repository to your local machine.
